@@ -1,0 +1,211 @@
+10:54:08.509 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+10:54:08.699 [main] INFO  testCases.accountregistrationtest - clicked on my account
+10:54:09.367 [main] INFO  testCases.accountregistrationtest - clicked on register account
+10:54:09.370 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+10:54:13.964 [main] ERROR testCases.accountregistrationtest - test failed
+10:56:05.159 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+10:56:05.291 [main] INFO  testCases.accountregistrationtest - clicked on my account
+10:56:05.797 [main] INFO  testCases.accountregistrationtest - clicked on register account
+10:56:05.799 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+10:56:10.384 [main] ERROR testCases.accountregistrationtest - test failed
+10:58:57.399 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+10:58:57.598 [main] INFO  testCases.accountregistrationtest - clicked on my account
+10:58:58.244 [main] INFO  testCases.accountregistrationtest - clicked on register account
+10:58:58.246 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+10:59:02.847 [main] ERROR testCases.accountregistrationtest - test failed
+11:03:12.005 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:03:12.124 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:03:12.626 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:03:12.635 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:03:16.342 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+11:03:16.348 [main] INFO  testCases.accountregistrationtest - ** finished **
+11:04:42.493 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:04:42.624 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:04:42.728 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:04:42.735 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:04:52.803 [main] ERROR testCases.accountregistrationtest - test failed
+11:05:06.091 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:05:06.208 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:05:06.661 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:05:06.665 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:05:10.258 [main] ERROR testCases.accountregistrationtest - test failed
+11:05:42.165 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:05:42.279 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:05:42.711 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:05:42.713 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:05:47.327 [main] ERROR testCases.accountregistrationtest - test failed
+11:07:14.062 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:07:14.195 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:07:14.601 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:07:14.605 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:07:18.194 [main] ERROR testCases.accountregistrationtest - test failed
+11:08:13.969 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:08:14.097 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:08:14.605 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:08:14.607 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:19:36.032 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:19:36.197 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:19:36.914 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:19:36.917 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:20:36.299 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:20:36.505 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:20:37.100 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:20:37.107 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:22:28.454 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:22:28.571 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:22:29.026 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:22:29.031 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:22:34.578 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+18:50:24.623 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+18:50:24.720 [main] INFO  testCases.accountregistrationtest - clicked on my account
+18:50:25.134 [main] INFO  testCases.accountregistrationtest - clicked on register account
+18:50:25.139 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+18:51:09.481 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+18:51:09.664 [main] INFO  testCases.accountregistrationtest - clicked on my account
+18:51:10.066 [main] INFO  testCases.accountregistrationtest - clicked on register account
+18:51:10.067 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+18:51:55.342 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+18:51:55.430 [main] INFO  testCases.accountregistrationtest - clicked on my account
+18:51:55.839 [main] INFO  testCases.accountregistrationtest - clicked on register account
+18:51:55.842 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+18:52:00.881 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+18:52:34.472 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+18:52:34.628 [main] INFO  testCases.accountregistrationtest - clicked on my account
+18:52:34.964 [main] INFO  testCases.accountregistrationtest - clicked on register account
+18:52:34.966 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+18:53:45.864 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+18:53:45.962 [main] INFO  testCases.accountregistrationtest - clicked on my account
+18:53:46.350 [main] INFO  testCases.accountregistrationtest - clicked on register account
+18:53:46.353 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+18:53:52.276 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+18:53:52.279 [main] ERROR testCases.accountregistrationtest - test failed
+18:53:52.279 [main] INFO  testCases.accountregistrationtest - ** finished **
+19:13:54.802 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+19:13:55.678 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+19:14:16.231 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+19:14:16.369 [main] INFO  testCases.accountregistrationtest - clicked on my account
+19:14:16.685 [main] INFO  testCases.accountregistrationtest - clicked on register account
+19:14:16.690 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+19:14:22.942 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+19:14:23.699 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+19:18:31.020 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+19:18:31.130 [main] INFO  testCases.accountregistrationtest - clicked on my account
+19:18:31.511 [main] INFO  testCases.accountregistrationtest - clicked on register account
+19:18:31.513 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+19:18:37.407 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+19:18:37.410 [main] ERROR testCases.accountregistrationtest - test failed
+19:18:37.410 [main] INFO  testCases.accountregistrationtest - ** finished **
+19:18:38.987 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+19:18:39.771 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+19:19:22.523 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+19:19:22.719 [main] INFO  testCases.accountregistrationtest - clicked on my account
+19:19:23.056 [main] INFO  testCases.accountregistrationtest - clicked on register account
+19:19:23.057 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+19:19:29.216 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+19:19:32.988 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+19:25:42.339 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+19:25:42.442 [main] INFO  testCases.accountregistrationtest - clicked on my account
+19:25:42.873 [main] INFO  testCases.accountregistrationtest - clicked on register account
+19:25:42.875 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+19:25:49.088 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+19:25:52.794 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+19:28:07.857 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+19:28:07.970 [main] INFO  testCases.accountregistrationtest - clicked on my account
+19:28:08.332 [main] INFO  testCases.accountregistrationtest - clicked on register account
+19:28:08.342 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+19:28:14.287 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+19:28:14.291 [main] ERROR testCases.accountregistrationtest - test failed
+19:28:14.292 [main] INFO  testCases.accountregistrationtest - ** finished **
+19:28:15.823 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+19:28:20.512 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+20:00:39.214 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:00:50.054 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:00:50.076 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:00:51.315 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:01:01.931 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:01:01.933 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:01:03.187 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:52:40.693 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+20:52:40.825 [main] INFO  testCases.accountregistrationtest - clicked on my account
+20:52:41.539 [main] INFO  testCases.accountregistrationtest - clicked on register account
+20:52:41.541 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+20:52:48.193 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+20:52:48.199 [main] ERROR testCases.accountregistrationtest - test failed
+20:52:48.200 [main] INFO  testCases.accountregistrationtest - ** finished **
+20:52:50.346 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+20:52:55.302 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+20:54:05.820 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+20:54:05.987 [main] INFO  testCases.accountregistrationtest - clicked on my account
+20:54:06.454 [main] INFO  testCases.accountregistrationtest - clicked on register account
+20:54:06.458 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+20:54:12.889 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+20:54:12.895 [main] ERROR testCases.accountregistrationtest - test failed
+20:54:12.895 [main] INFO  testCases.accountregistrationtest - ** finished **
+20:57:24.000 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+20:57:24.308 [main] INFO  testCases.accountregistrationtest - clicked on my account
+20:57:24.847 [main] INFO  testCases.accountregistrationtest - clicked on register account
+20:57:24.853 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+21:00:22.856 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+21:00:27.937 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+21:02:05.635 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+21:02:05.775 [main] INFO  testCases.accountregistrationtest - clicked on my account
+21:02:06.336 [main] INFO  testCases.accountregistrationtest - clicked on register account
+21:02:06.342 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+21:02:09.960 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+21:02:14.898 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+21:04:30.362 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+21:04:30.557 [main] INFO  testCases.accountregistrationtest - clicked on my account
+21:04:31.022 [main] INFO  testCases.accountregistrationtest - clicked on register account
+21:04:31.025 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+21:04:37.371 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+21:04:37.376 [main] ERROR testCases.accountregistrationtest - test failed
+21:04:37.376 [main] INFO  testCases.accountregistrationtest - ** finished **
+21:04:39.538 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+21:04:44.569 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+10:45:56.831 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+10:45:56.988 [main] INFO  testCases.accountregistrationtest - clicked on my account
+10:45:57.818 [main] INFO  testCases.accountregistrationtest - clicked on register account
+10:45:57.822 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+10:46:04.731 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+10:46:09.777 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+10:57:46.613 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+10:57:46.819 [main] INFO  testCases.accountregistrationtest - clicked on my account
+10:57:59.247 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+10:58:04.248 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+11:02:01.376 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:02:01.655 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:02:02.143 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:02:02.146 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:02:08.748 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+11:02:08.752 [main] ERROR testCases.accountregistrationtest - test failed
+11:02:08.752 [main] INFO  testCases.accountregistrationtest - ** finished **
+11:02:10.716 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+11:02:15.608 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+11:02:45.774 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:02:46.014 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:02:58.433 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+11:03:03.375 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+11:05:09.225 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:05:09.520 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:05:09.979 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:05:09.981 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:05:16.962 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+11:05:21.906 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+11:06:12.471 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:06:12.690 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:06:13.130 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:06:13.132 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:06:19.549 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+11:06:19.555 [main] ERROR testCases.accountregistrationtest - test failed
+11:06:19.555 [main] INFO  testCases.accountregistrationtest - ** finished **
+11:06:21.504 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+11:06:26.433 [main] INFO  testCases.LoginTest - ***Finished logintest ***
+11:47:56.118 [main] INFO  testCases.accountregistrationtest - ***** starting accountregistrationtest****
+11:47:56.422 [main] INFO  testCases.accountregistrationtest - clicked on my account
+11:47:57.090 [main] INFO  testCases.accountregistrationtest - clicked on register account
+11:47:57.094 [main] INFO  testCases.accountregistrationtest - **  providing customer details **
+11:48:03.458 [main] INFO  testCases.accountregistrationtest - ** Validating expected message **
+11:48:03.463 [main] ERROR testCases.accountregistrationtest - test failed
+11:48:03.463 [main] INFO  testCases.accountregistrationtest - ** finished **
+11:48:05.425 [main] INFO  testCases.LoginTest -  **** Strating loginterstcase**
+11:48:10.409 [main] INFO  testCases.LoginTest - ***Finished logintest ***
